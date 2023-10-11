@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>PubCrawler</title>
 
+        @vite(['resources/css/app.css'])
         @livewireStyles
     </head>
     <body class="antialiased">
