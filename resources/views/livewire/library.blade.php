@@ -1,5 +1,5 @@
-<div>
-    <table>
+<div class="overflow-x-auto">
+    <table class="table">
         <thead>
             <tr>
                 <th>Title</th>
