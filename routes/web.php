@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', \App\Livewire\HelloWorld::class);
+Route::get('/', \App\Livewire\Library::class);
