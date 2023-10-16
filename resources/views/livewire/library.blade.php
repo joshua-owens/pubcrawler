@@ -1,6 +1,6 @@
 <div class="overflow-x-auto">
     <div>
-        <a class="btn-primary" href="/upload" wire:navigate>Upload</a>
+        <a class="btn btn-primary" href="/upload" wire:navigate>Upload</a>
     </div>
     <table class="table">
         <thead>
