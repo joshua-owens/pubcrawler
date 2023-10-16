@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', \App\Livewire\Library::class);
+Route::get('/upload', \App\Livewire\Upload::class);
